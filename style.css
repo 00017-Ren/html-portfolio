@@ -1,0 +1,29 @@
+html {
+    background-color: #55679C;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+#header {
+    color: #E1D7B7;
+}
+
+#body {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+hr {
+    color: #7C93C3;
+}
+
+#body .link {
+    color: #1E2A5E;
+}
+
+#footer .link {
+    color: #E1D7B7;
+}
